@@ -24,10 +24,10 @@ Python2.7.10, Python3.4.3 での動作を確認済みです。
 
 ### フォントのライセンス
 フォントは以下のライセンスに準じます。
-* IPAフォント (fonts/IPA_Font_License_Agreement_v1.0.txt)
-* M+ (fonts/LICENSE_J,fonts/LICENSE_E)
-Copyright(c) 2013 M+ FONTS PROJECT
-Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2013.
+- IPAフォント (fonts/IPA_Font_License_Agreement_v1.0.txt)
+- M+ (fonts/LICENSE_J,fonts/LICENSE_E)
+- Copyright(c) 2013 M+ FONTS PROJECT
+- Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2013.
 
 ### フォント以外のライセンス
 
